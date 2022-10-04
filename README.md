@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @JASPREET-CROSSML
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently learning Python.
 - 📫 How to reach me jaspreet@crossml.com
